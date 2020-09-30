@@ -14,6 +14,41 @@
       "title": "product 3",
       "price": 53,
       "id": 3
+    },
+    {
+      "id": 4,
+      "title": "product 4",
+      "price": 50.55
+    },
+    {
+      "id": 5,
+      "title": "product 5",
+      "price": 50.55
+    },
+    {
+      "id": 6,
+      "title": "product 6",
+      "price": 50.55
+    },
+    {
+      "id": 7,
+      "title": "product 7",
+      "price": 50.55
+    },
+    {
+      "id": 8,
+      "title": "product 8",
+      "price": 50.55
+    },
+    {
+      "id": 9,
+      "title": "product 10",
+      "price": 50.55
+    },
+    {
+      "id": 11,
+      "title": "product 11",
+      "price": 50.55
     }
   ]
 }
